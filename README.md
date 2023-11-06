@@ -2344,26 +2344,27 @@ label {
 ## OUTPUT:
 
 ### Home Page:
-![home](https://github.com/NaveenSivamalai/softweb/assets/123792574/2515f355-7c84-4fb2-988a-c940179914b5)
+![Screenshot 2023-11-06 212853](https://github.com/NaveenSivamalai/softweb/assets/123792574/bc5bf127-6d69-4e8b-84ff-72ff5641450a)
+
 
 
 ### Trending Page:
-![trending](https://github.com/NaveenSivamalai/softweb/assets/123792574/92ea99f8-c1c0-48a9-94ba-ad6b79b59a40)
+![Screenshot (102)](https://github.com/NaveenSivamalai/softweb/assets/123792574/9e3f3f9c-2a00-41e2-9b98-7cd47de91716)
+
 
 
 ### contact Page:
-![contact](https://github.com/NaveenSivamalai/softweb/assets/123792574/db5a58dc-1113-467f-9489-8d0288ec11a3)
+![Screenshot (104)](https://github.com/NaveenSivamalai/softweb/assets/123792574/4d0e064f-1268-4443-b987-86bb74f7521f)
+
 
 ### signup Page:
-![signup](https://github.com/NaveenSivamalai/softweb/assets/123792574/bc01963d-a35d-4a74-b87d-755d71d7de43)
+![Screenshot (103)](https://github.com/NaveenSivamalai/softweb/assets/123792574/efc27ed9-637c-42af-aa86-855203c1ced9)
 
 
 
-## Result:
 
-Thus a website is designed for the software product company and the HTML,CSS code are validated.
 
-## HTML VALIDATOR:
+
 
 
 ## RESULT:
