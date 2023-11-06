@@ -2344,16 +2344,19 @@ label {
 ## OUTPUT:
 
 ### Home Page:
-![output](home.png)
+![home](https://github.com/NaveenSivamalai/softweb/assets/123792574/2515f355-7c84-4fb2-988a-c940179914b5)
+
 
 ### Trending Page:
-![output](trending.png)
+![trending](https://github.com/NaveenSivamalai/softweb/assets/123792574/92ea99f8-c1c0-48a9-94ba-ad6b79b59a40)
+
 
 ### contact Page:
-![output](contact.png)
+![contact](https://github.com/NaveenSivamalai/softweb/assets/123792574/db5a58dc-1113-467f-9489-8d0288ec11a3)
 
 ### signup Page:
-![output](signup.png)
+![signup](https://github.com/NaveenSivamalai/softweb/assets/123792574/bc01963d-a35d-4a74-b87d-755d71d7de43)
+
 
 
 ## Result:
